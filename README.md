@@ -36,5 +36,6 @@ Not much thing to write right now
 
 <h2>Commit History</h2>
 <ul>
-<li><b>Last Commit:</b> Initial Commit & jCenter() removed will be deprecated soon & ext merged to same brackets</li>
+<li><b>Last Commit:</b> viewBinding and dataBinding enabled & Hilt enabled & AppModule created for di & Packages modified</li>
+<li><b>bb1500d:</b> Initial Commit & jCenter() removed will be deprecated soon & ext merged to same brackets</li>
 </ul>
